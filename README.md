@@ -425,6 +425,7 @@ Securely store your Docker images.
 * [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
 * [REX-Ray](https://github.com/emccode/rexray) Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks.
 * [Local Persist](https://github.com/CWSpear/local-persist) Specify a mountpoint for your local volumes (created via `docker volume create`) so that files will always persist and so you can mount to different directories in different containers.
+* [Flocker] (https://github.com/ClusterHQ/flocker) - an open source container data volume manager by [@clusterHQ](https://clusterhq.com/)
 
 
 ## Useful Images
